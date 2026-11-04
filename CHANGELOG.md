@@ -1,5 +1,14 @@
 # Changelog
 
+## Branding update · 2026-11-04
+
+- Adopted the approved monochrome blue eagle as the primary logo in the website header, README, and social preview image.
+- Added the four approved White Agate favicon variants (unmodified sources plus exports) and published Version 1 as the default favicon and mobile home-screen icon.
+- Added `favicon.ico`, 16x16 and 32x32 PNGs, a 180x180 Apple touch icon, 192x192, 512x512, and maskable 512x512 icons, and a web manifest with project-relative paths.
+- Added `BaldEagleLab_WhiteAgate_Favicons.zip` with a guide, and the README "Logos & Favicons" section.
+- Added `scripts/build-favicons.py` and website integrity checks for icon links, sizes, manifest, and the default.
+- Removed the provisional folded-wing `eagle.svg`. Website version remains 0.1.0; no harness behavior changes.
+
 ## V1 brand asset collection · 2026-11-04
 
 - Recorded owner approval of the Natural, Old Glory, Black Monochrome, and Reverse directions.

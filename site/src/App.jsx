@@ -8,7 +8,14 @@ const Arrow = () => <span aria-hidden="true">↗</span>;
 function Brand() {
   return (
     <a className="brand" href="index.html" aria-label="Bald Eagle Lab home">
-      <img src="eagle.svg" width="38" height="38" alt="" />
+      <img
+        className="brand-logo"
+        src="brand/logo/baldeaglelab-logo-blue-128.png"
+        srcSet="brand/logo/baldeaglelab-logo-blue-128.png 1x, brand/logo/baldeaglelab-logo-blue-512.png 4x"
+        width="52"
+        height="52"
+        alt=""
+      />
       <span>
         Bald Eagle<span className="brand-lab">Lab</span>
       </span>

@@ -1,6 +1,6 @@
 # Bald Eagle Lab logo direction
 
-Owner direction, November 4, 2026. The owner approved all four V1 color directions and requested separate icons plus a navy monochrome edition. See the [V1 asset collection](BRAND.md). The existing folded-wing website mark remains provisional pending small-size production work.
+Owner direction, November 4, 2026. The owner approved all four V1 color directions and requested separate icons plus a navy monochrome edition. See the [V1 asset collection](BRAND.md). The monochrome blue eagle is the primary logo and White Agate Version 1 is the default favicon; see [BRAND.md](BRAND.md).
 
 ## Composition
 

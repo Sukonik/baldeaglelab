@@ -1,0 +1,191 @@
+{
+  "edition": "White Agate",
+  "default_variant": 1,
+  "variants": {
+    "1": {
+      "name": "Pearl White",
+      "description": "Warm pearl-white agate with soft cream striations. DEFAULT.",
+      "default": true,
+      "source": {
+        "file": "source/baldeaglelab-whiteagate-v1.png",
+        "sha256": "db1f47d0db213b4486adf098203dca3291b2d05bdcc8a29f2aedde475f45f7f0"
+      },
+      "tile_bbox_in_source": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "exports": {
+        "apple-touch-icon.png": {
+          "sha256": "9ea9fd56718fe8b64da3a212bc8ba6e7a173735885ac5508295c0810ea386e51",
+          "bytes": 52354
+        },
+        "favicon-16x16.png": {
+          "sha256": "a46aa5c516783f4c8176a819855ce33ba1a9f1d4e824f5264ef9088feef9778e",
+          "bytes": 944
+        },
+        "favicon-32x32.png": {
+          "sha256": "6d6d8edc2e4ac82e006e2a980e578e4d1b253ad254675ff925d9a707d78dd9d7",
+          "bytes": 3219
+        },
+        "favicon.ico": {
+          "sha256": "68b322f42cc0f980050c64e3293cb2d670b41f3c07d58a8941eda95d1fa27f0d",
+          "bytes": 10672
+        },
+        "icon-192.png": {
+          "sha256": "d3fe285ede3eeac657fee66c20cbee999a74e2c62b941d6f4dff61df74b1b0fe",
+          "bytes": 65077
+        },
+        "icon-512.png": {
+          "sha256": "5934033cf9075ca9ec208fb7f10311ff5f7ffc530f5de9acb9533ffde728e04b",
+          "bytes": 372826
+        },
+        "icon-maskable-512.png": {
+          "sha256": "b5403e702877dcdf206597732176a2bbc9d4f4958a983cfc78aa83ebfe1a5ee4",
+          "bytes": 208781
+        }
+      }
+    },
+    "2": {
+      "name": "Slate Vein",
+      "description": "Cool white agate with grey-black veining and dendritic fern marks.",
+      "default": false,
+      "source": {
+        "file": "source/baldeaglelab-whiteagate-v2.png",
+        "sha256": "bccc6ec7799c304d754d9f58ef39eeb2bdcfd228e453be892a59276640bfa665"
+      },
+      "tile_bbox_in_source": [
+        14,
+        13,
+        1239,
+        1241
+      ],
+      "exports": {
+        "apple-touch-icon.png": {
+          "sha256": "8b07405e661b850abcc509a6f266a17683c570d97fbe38b3283e08ae55e66d16",
+          "bytes": 54182
+        },
+        "favicon-16x16.png": {
+          "sha256": "c3e8a1586e8517f96fa67f1db326540577987fcc9943cb2c050f47dc615f3d78",
+          "bytes": 991
+        },
+        "favicon-32x32.png": {
+          "sha256": "ddcf5f0b8e54341d440170fc422bc6041bc1a832bbe74c040383c4a886dd6385",
+          "bytes": 3371
+        },
+        "favicon.ico": {
+          "sha256": "bc8d58160888d779aa34647923ca62917ee4cf9be40f1180aa544519128041f4",
+          "bytes": 11158
+        },
+        "icon-192.png": {
+          "sha256": "22d0f82c7d58f8e6e66e3e2492d0df916cb9f34dffe1157bdf3609190c48b23c",
+          "bytes": 70242
+        },
+        "icon-512.png": {
+          "sha256": "2a4a52ddcbb6135e8ac20b90572c21e9f16859cfd43643c765326072c47bb0ba",
+          "bytes": 396105
+        },
+        "icon-maskable-512.png": {
+          "sha256": "a4cf527505fd869f488c1214b3a950a0e3daab861a91f1507f5eada0f35c1b04",
+          "bytes": 212801
+        }
+      }
+    },
+    "3": {
+      "name": "Silver Vein",
+      "description": "Blue-white agate with metallic silver veins; the eagle shows faint black marbling.",
+      "default": false,
+      "source": {
+        "file": "source/baldeaglelab-whiteagate-v3.png",
+        "sha256": "a7b8cb04f439209a855122c4d562e9b6f1096271ecea9bde2bb723add1477e25"
+      },
+      "tile_bbox_in_source": [
+        18,
+        19,
+        1235,
+        1238
+      ],
+      "exports": {
+        "apple-touch-icon.png": {
+          "sha256": "253e00094e67bd9b01dbcfb3cee2f3a658beebe34560753840b4bee4c5397c57",
+          "bytes": 61804
+        },
+        "favicon-16x16.png": {
+          "sha256": "16b93b436624d832e1ca1951d68890840833c6bea95b5053bbecc31349bc033a",
+          "bytes": 991
+        },
+        "favicon-32x32.png": {
+          "sha256": "6d6762299204644544d8db94e3f49f72edcc6837420d73a5db36774f8328ddf6",
+          "bytes": 3385
+        },
+        "favicon.ico": {
+          "sha256": "ee839e9f67767d0a443c3555ac8b57e7d10a4d9aab62fe8d93fcb6c2376edce3",
+          "bytes": 11403
+        },
+        "icon-192.png": {
+          "sha256": "1b6c553d4579453e37fa0e029443a23a6a91255acc648c86f53e4565a5191372",
+          "bytes": 77074
+        },
+        "icon-512.png": {
+          "sha256": "0d2ad0973abc4b7a1771f636c58ed7d28b1e9f6d729f48966c71303e6bdd016c",
+          "bytes": 440233
+        },
+        "icon-maskable-512.png": {
+          "sha256": "2ae4a35e5c082580261ad0c334b2aacefe0c32eb352367e6c60c0b7d0512a68a",
+          "bytes": 237023
+        }
+      }
+    },
+    "4": {
+      "name": "Warm Sand",
+      "description": "Cream and sand-brown banded agate.",
+      "default": false,
+      "source": {
+        "file": "source/baldeaglelab-whiteagate-v4.png",
+        "sha256": "8ea619caf02ebcbbf5925ebe9b85545ee2bfd241d59af290bc7dbce575df941a"
+      },
+      "tile_bbox_in_source": [
+        7,
+        10,
+        1246,
+        1244
+      ],
+      "exports": {
+        "apple-touch-icon.png": {
+          "sha256": "cee0fb62ab7dff08d06e46c59c2fe09910fdfb63a98411839f5aba6242113aa9",
+          "bytes": 55828
+        },
+        "favicon-16x16.png": {
+          "sha256": "1efba819de6004d2b6cad8dcff50b43f0a3fb650cb1790aca3ab2b8db507afeb",
+          "bytes": 971
+        },
+        "favicon-32x32.png": {
+          "sha256": "d5ee83672bd3f829ab44d207a0011acf9a270e1fb74456d8f19fa40fe1c9a43a",
+          "bytes": 3284
+        },
+        "favicon.ico": {
+          "sha256": "d5bc2ff874e158380d83fb516cbe9e14b385b56408c046f3aa9a69532b32c314",
+          "bytes": 10910
+        },
+        "icon-192.png": {
+          "sha256": "ea8dc55607e1a3bb52767a3a5bb9aa19d9cf6a6d20d74e591ec315a9b305bc61",
+          "bytes": 70887
+        },
+        "icon-512.png": {
+          "sha256": "bd313aa3b6f6adb77dd1c4991c5fcf0bfd2d875330b7aaba9209b7fecd92d2c7",
+          "bytes": 404176
+        },
+        "icon-maskable-512.png": {
+          "sha256": "8b135c0969e8ec9cdcbeffab5b338b79db9d2e3aa0f4792522edc278c31b4740",
+          "bytes": 221223
+        }
+      }
+    }
+  },
+  "download_zip": {
+    "file": "../../downloads/BaldEagleLab_WhiteAgate_Favicons.zip",
+    "sha256": "590b390c84790db360d8312b213bd59a343b4328c39fddc43ed747a284558c3d",
+    "bytes": 3067312
+  }
+}
