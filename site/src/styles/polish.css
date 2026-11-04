@@ -1,0 +1,73 @@
+/* UI/UX polish layer: touch targets, readable measure, motion, print.
+   Loaded last so it refines the earlier layers without !important. */
+.text-link,
+.sidebar-source,
+.back-link,
+.footer-bottom a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  min-height: 36px;
+}
+/* Do not set display here: .desktop-repo is hidden on mobile by an earlier layer. */
+.repo-link {
+  min-height: 36px;
+  align-items: center;
+}
+.footer-top nav a {
+  display: flex;
+  align-items: center;
+  min-height: 36px;
+  margin-top: 0;
+}
+.doc-sidebar nav a {
+  display: flex;
+  align-items: center;
+  min-height: 36px;
+}
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+p,
+li {
+  text-wrap: pretty;
+}
+@media (max-width: 760px) {
+  .doc-sidebar nav a {
+    min-height: 40px;
+    padding-block: 8px;
+  }
+  .footer-top nav a,
+  .text-link,
+  .sidebar-source,
+  .back-link,
+  .footer-bottom a {
+    min-height: 44px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+@media print {
+  .site-header,
+  .skip-link,
+  .doc-sidebar,
+  .nav-trigger {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+  }
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.7rem;
+    color: #526580;
+  }
+}
