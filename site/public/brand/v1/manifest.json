@@ -1,0 +1,65 @@
+{
+  "edition": "V1",
+  "date": "2026-11-04",
+  "assets": [
+    {
+      "file": "baldeaglelab-natural-v1.png",
+      "variant": "natural",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "4f310b2a8a99274e70de2313c4c40a9094419f1f59dd9e35c96b96ccf9c1cd2c",
+      "bytes": 707831
+    },
+    {
+      "file": "baldeaglelab-old-glory-v1.png",
+      "variant": "old-glory",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "7b07731f94ba3865ae50f6a87a275f41c4373f850f18b787e4b683aebf268d90",
+      "bytes": 766071
+    },
+    {
+      "file": "baldeaglelab-monochrome-black-v1.png",
+      "variant": "monochrome-black",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "c53f850987eb458c99468eef44fa6e3a96d5efaa1421fab40db5632ec384d34c",
+      "bytes": 555951
+    },
+    {
+      "file": "baldeaglelab-reverse-v1.png",
+      "variant": "reverse",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "alpha_range": null,
+      "sha256": "8451c01b555ad5d413135405d3b403ca03f8424714ad64a4796d704cb55319a0",
+      "bytes": 1293228
+    },
+    {
+      "file": "baldeaglelab-monochrome-blue-v1.png",
+      "variant": "monochrome-blue",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "alpha_range": null,
+      "sha256": "6e1bc57e46d41040dfcfe314698badd92cd84a11c5e1ff5b19fbfcf16daf480c",
+      "bytes": 1235797
+    }
+  ]
+}

@@ -25,7 +25,7 @@ Use white and blue for the majority of surfaces. Red stays an accent. Do not use
 
 ## Typography and identity
 
-Outfit carries masthead and headlines; Inter carries body and interface text. Google Fonts uses `display=swap`; Helvetica and Arial are local fallbacks. The live wordmark remains text. A compact provisional folded-wing vector in `site/public/eagle.svg` provides the favicon and header mark. The later eagle-holding-a-folder design, including natural, monochrome, and patriotic variants, is specified in [LOGO_BRIEF.md](LOGO_BRIEF.md). It is a project identity, not a government seal or official affiliation.
+Outfit carries masthead and headlines; Inter carries body and interface text. Google Fonts uses `display=swap`; Helvetica and Arial are local fallbacks. The live wordmark remains text. A compact provisional folded-wing vector in `site/public/eagle.svg` provides the favicon and header mark. The owner-approved V1 eagle-holding-a-folder directions and separate raster editions are documented in [BRAND.md](BRAND.md), including a navy monochrome preview. See [LOGO_BRIEF.md](LOGO_BRIEF.md) for the design direction. It is a project identity, not a government seal or official affiliation.
 
 ## Layer contract
 

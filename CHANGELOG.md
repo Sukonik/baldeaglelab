@@ -1,5 +1,12 @@
 # Changelog
 
+## V1 brand asset collection · 2026-11-04
+
+- Recorded owner approval of the Natural, Old Glory, Black Monochrome, and Reverse directions.
+- Added five separately named, label-free PNG editions, including the requested Old Glory Blue monochrome preview.
+- Preserved the original approved board, documented backgrounds and raster limitations, and recorded dimensions and SHA-256 hashes.
+- Added a README gallery and brand asset guide. Website version remains 0.1.0; no layout or harness behavior changes.
+
 ## 0.1.0 · Website Build 1 · 2026-11-04
 
 - Expanded the project README with mission, framework scope, evidence rules, application boundaries, synthetic-data policy, build roadmap, development instructions, and release history.

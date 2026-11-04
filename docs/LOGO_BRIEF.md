@@ -1,6 +1,6 @@
 # Bald Eagle Lab logo direction
 
-Owner direction, November 4, 2026. This brief records a later design pass; the existing folded-wing website mark is provisional.
+Owner direction, November 4, 2026. The owner approved all four V1 color directions and requested separate icons plus a navy monochrome edition. See the [V1 asset collection](BRAND.md). The existing folded-wing website mark remains provisional pending small-size production work.
 
 ## Composition
 
@@ -18,8 +18,8 @@ Keep the design flat and 2D. No texture, grain, bevel, metallic treatment, gradi
 
 The geometry should work across all variants instead of relying on color to explain the folder or separate the eagle's parts. Include an inverted monochrome treatment for dark backgrounds.
 
-## Future deliverables and review
+## V1 delivery and future refinement
 
-Create comparable previews first. After the owner chooses a direction, prepare transparent assets and small-size variants for the header and favicon. Review the silhouette and folder at 24px, 32px, 64px, and larger presentation sizes. Preserve live-text wordmarks alongside the graphic. Do not treat the current provisional icon as the approved final eagle.
+The approved board is preserved alongside five standalone, label-free PNG editions: Natural, Old Glory, Black Monochrome, Reverse, and Blue Monochrome. Natural, Old Glory, and Black Monochrome have transparent outer backgrounds. Reverse uses a navy square; Blue Monochrome uses white. Exact vector masters and simplified small-size variants remain future work. Review the silhouette and folder at 24px, 32px, 64px, and larger presentation sizes. Preserve live-text wordmarks alongside the graphic.
 
 The uploaded reference image is not included in the public repository. This brief captures the requested design direction without publishing the attachment.
