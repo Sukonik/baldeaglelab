@@ -36,4 +36,9 @@ Target brand tokens are Old Glory Blue `#002868`, White `#FFFFFF`, and Old Glory
 
 Preserve aspect ratio, keep clear space, and retain the folder and scaffold. Use the reverse asset on dark surfaces. Do not erase white interior shapes when preparing transparency. Do not relabel the generated PNGs as SVG or claim they are production vector files.
 
-The website's initial folded-wing favicon remains provisional while the detailed eagle receives small-size review. Exact vector construction and simplified 24/32/64px variants are future production work, not included in this asset-only update.
+## Primary logo and White Agate favicons (2026-11-04)
+
+- **Primary logo:** the monochrome blue eagle above. The website header, README, and social preview use it (`site/public/brand/logo/`, 128 and 512 px).
+- **Favicons:** four approved White Agate variants of the black monochrome eagle, stored unmodified in `site/public/brand/agate/source/` and exported per variant to `site/public/brand/agate/v1` to `v4`. Version 1 (Pearl White) is the published default; Versions 2 to 4 are Slate Vein, Silver Vein, and Warm Sand. See the [README](../README.md#-logos--favicons) and the downloadable ZIP.
+- **Exports** per variant: `favicon.ico` (16/32/48), 16 and 32 px PNGs, 180 px Apple touch icon (opaque, full-bleed), 192 and 512 px icons, and a 512 px maskable icon. `site/public/brand/agate/manifest.json` records SHA-256 hashes.
+- **Small sizes:** at 16 px the eagle is a silhouette; the folder and scaffold merge. Exact vector masters and simplified 16/24 px redraws remain future work.

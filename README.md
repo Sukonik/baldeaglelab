@@ -1,4 +1,6 @@
-<img src="site/public/eagle.svg" width="64" height="64" alt="Bald Eagle Lab folded-wing mark">
+<p align="center">
+  <img src="site/public/brand/logo/baldeaglelab-logo-blue-512.png" width="200" alt="Bald Eagle Lab monochrome blue eagle logo">
+</p>
 
 # 🦅 Bald Eagle Lab
 
@@ -161,17 +163,43 @@ See [DATA_POLICY.md](docs/DATA_POLICY.md) for admission rules and the limits of 
 
 More: [BASE3 design documentation](docs/BASE3.md) · [Live BASE3 guide](https://sukonik.github.io/baldeaglelab/base3.html).
 
-## 🦅 V1 eagle-and-folder icon collection
+## 🎨 Logos & Favicons
 
-The owner approved all four V1 logo directions: **Natural**, **Old Glory**, **Black Monochrome**, and **Reverse**. Each is stored as a separate, label-free PNG. A fifth **Blue Monochrome** edition shows the black design in Old Glory Blue `#002868` on white.
+### Primary logo: monochrome blue eagle
+
+<p align="center">
+  <img src="site/public/brand/logo/baldeaglelab-logo-blue-512.png" width="220" alt="Bald Eagle Lab monochrome blue eagle logo">
+</p>
+
+The approved monochrome blue eagle (Old Glory Blue `#002868` on white) is the primary logo. It is used in this README and in the website header, social preview, and documentation. Source file: [`baldeaglelab-monochrome-blue-v1.png`](site/public/brand/v1/baldeaglelab-monochrome-blue-v1.png) (1254×1254); web sizes: [128 px](site/public/brand/logo/baldeaglelab-logo-blue-128.png) · [512 px](site/public/brand/logo/baldeaglelab-logo-blue-512.png).
+
+### White Agate favicon collection
+
+The black monochrome eagle on four approved White Agate stone striations. **Version 1 is the published default** for browser tabs and mobile home-screen icons. The other three are complete, swappable sets; nothing rotates automatically.
+
+| ⭐ Version 1 (default) | Version 2 | Version 3 | Version 4 |
+| :---: | :---: | :---: | :---: |
+| <img src="site/public/brand/agate/v1/icon-192.png" width="120" alt="White Agate Version 1, Pearl White"> | <img src="site/public/brand/agate/v2/icon-192.png" width="120" alt="White Agate Version 2, Slate Vein"> | <img src="site/public/brand/agate/v3/icon-192.png" width="120" alt="White Agate Version 3, Silver Vein"> | <img src="site/public/brand/agate/v4/icon-192.png" width="120" alt="White Agate Version 4, Warm Sand"> |
+| **Pearl White**<br>published default | Slate Vein | Silver Vein | Warm Sand |
+| [Exports](site/public/brand/agate/v1/) · [source](site/public/brand/agate/source/baldeaglelab-whiteagate-v1.png) | [Exports](site/public/brand/agate/v2/) · [source](site/public/brand/agate/source/baldeaglelab-whiteagate-v2.png) | [Exports](site/public/brand/agate/v3/) · [source](site/public/brand/agate/source/baldeaglelab-whiteagate-v3.png) | [Exports](site/public/brand/agate/v4/) · [source](site/public/brand/agate/source/baldeaglelab-whiteagate-v4.png) |
+
+The names Pearl White, Slate Vein, Silver Vein, and Warm Sand are descriptive labels for the numbered approved images.
+
+Every variant folder contains `favicon.ico` (16/32/48), `favicon-16x16.png`, `favicon-32x32.png`, a 180×180 `apple-touch-icon.png` (opaque, full-bleed), `icon-192.png`, `icon-512.png`, and `icon-maskable-512.png` (eagle kept inside the safe zone for circular crops). The site serves Version 1 from its root with relative paths, so it works under `/baldeaglelab/`. A web manifest ([`site.webmanifest`](site/public/site.webmanifest)) references the 192/512 icons.
+
+**📦 [Download all four sets: `BaldEagleLab_WhiteAgate_Favicons.zip`](site/public/downloads/BaldEagleLab_WhiteAgate_Favicons.zip)** ([live download](https://sukonik.github.io/baldeaglelab/downloads/BaldEagleLab_WhiteAgate_Favicons.zip)) with a short guide that identifies the default and every export.
+
+To switch the default, change `DEFAULT` in [`scripts/build-favicons.py`](scripts/build-favicons.py) and rerun it (needs Python 3, Pillow, NumPy; it is a developer tool, not part of the website build). At 16 px the eagle reads as a silhouette; the detail is intended for 32 px and above. Exports are raster derivatives, not vector masters. See the [brand asset guide](docs/BRAND.md).
+
+### Earlier V1 logo editions
+
+Natural, Old Glory, Black Monochrome, and Reverse remain available as separate label-free PNGs beside the blue monochrome edition.
 
 | Natural | Old Glory | Black Monochrome | Reverse | Blue Monochrome |
 | --- | --- | --- | --- | --- |
-| <img src="site/public/brand/v1/baldeaglelab-natural-v1.png" width="120" alt="Natural eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-old-glory-v1.png" width="120" alt="Old Glory eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-monochrome-black-v1.png" width="120" alt="Black monochrome eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-reverse-v1.png" width="120" alt="Reverse eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-monochrome-blue-v1.png" width="120" alt="Blue monochrome eagle icon"> |
+| <img src="site/public/brand/v1/baldeaglelab-natural-v1.png" width="100" alt="Natural eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-old-glory-v1.png" width="100" alt="Old Glory eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-monochrome-black-v1.png" width="100" alt="Black monochrome eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-reverse-v1.png" width="100" alt="Reverse eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-monochrome-blue-v1.png" width="100" alt="Blue monochrome eagle icon"> |
 
-**[Browse and download the separate icons](site/public/brand/v1/)** · [Brand asset guide](docs/BRAND.md) · [Original approved board](site/public/brand/v1/baldeaglelab-approved-board-v1.png) · [Design brief](docs/LOGO_BRIEF.md)
-
-The eagle holds a document folder above a structural scaffold. Natural, Old Glory, and Black Monochrome PNGs have transparent outer backgrounds with intentional white details retained. Reverse uses a navy square background; Blue Monochrome uses white. These are generated raster editions; the approved board is retained as the reference, and exact vector masters and small-size simplification remain future work. The initial folded-wing website favicon remains provisional.
+[Browse the V1 PNGs](site/public/brand/v1/) · [Original approved board](site/public/brand/v1/baldeaglelab-approved-board-v1.png) · [Design brief](docs/LOGO_BRIEF.md)
 
 ## 🛠️ Local development
 
@@ -193,7 +221,11 @@ site/src/App.jsx             Shared layout, home, menus, and guide template
 site/src/data.mjs            Framework and reference-page content
 site/src/client.jsx          React hydration and styles
 site/src/styles/             BASE3 CSS layers
-site/public/eagle.svg        Folded-wing identity and favicon
+site/public/brand/logo/      Monochrome blue logo (web sizes)
+site/public/brand/agate/     White Agate sources and four favicon sets
+site/public/favicon*, apple-touch-icon.png, icon-*.png, site.webmanifest   Published default (Version 1)
+site/public/downloads/       BaldEagleLab_WhiteAgate_Favicons.zip
+scripts/build-favicons.py    Developer tool that regenerates every icon export
 scripts/build.mjs           Vite build and nine-page pre-rendering
 scripts/check-site.mjs      Website integrity checks
 docs/BASE3.md               Design and interaction contract
