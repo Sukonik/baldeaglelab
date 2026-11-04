@@ -1,5 +1,13 @@
 # Changelog
 
+## UI/UX polish · 2026-11-04
+
+- Raised every text size below 11.5 px (63 declarations): eyebrow labels and badges now start at 0.72 rem, small body and link text at 0.8 rem.
+- Enlarged touch targets to at least 36 px (44 px on phones) for footer links, in-page guide chips and links, "Back to the lab", "View source", and the inline "See the build plan", "Read the integration boundary" and "Explore WindSwordAI" links.
+- Balanced headline wrapping and improved paragraph line breaks; added print styles (hides navigation, shows link URLs) and a reduced-motion fallback.
+- Added a `polish` CSS layer so these refinements do not need `!important` in the earlier layers.
+- Audited all nine pages at 320, 390, 820 and 1280 px: no horizontal overflow, no unnamed controls, no images without alt attributes, no interactive element under 32 px.
+
 ## Branding update · 2026-11-04
 
 - Adopted the approved monochrome blue eagle as the primary logo in the website header, README, and social preview image.

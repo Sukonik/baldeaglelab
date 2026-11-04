@@ -28,7 +28,7 @@
     font-size: 0.94rem;
   }
   .eyebrow {
-    font-size: 0.58rem;
+    font-size: 0.72rem;
   }
   .trace-head {
     padding: 17px;
@@ -44,17 +44,17 @@
     gap: 8px;
   }
   .trace-stages li > span:last-child {
-    font-size: 0.58rem;
+    font-size: 0.72rem;
   }
   .trace-foot {
     padding: 16px 17px;
   }
   .principle-strip > .container {
     gap: 16px;
-    font-size: 0.65rem;
+    font-size: 0.72rem;
   }
   .principle-strip a {
-    font-size: 0.6rem;
+    font-size: 0.72rem;
   }
   .ledger-grid {
     gap: 55px;
@@ -71,7 +71,7 @@
   }
   .base3-callout .button {
     padding: 12px 15px;
-    font-size: 0.7rem;
+    font-size: 0.72rem;
   }
   .doc-layout {
     grid-template-columns: 185px 1fr;
@@ -110,7 +110,7 @@
     font-size: clamp(2.8rem, 8.3vw, 4rem);
   }
   .hero .eyebrow {
-    font-size: 0.58rem;
+    font-size: 0.72rem;
     margin-bottom: 24px;
   }
   .lede {
@@ -119,7 +119,7 @@
     font-size: 0.95rem;
   }
   .release-note {
-    font-size: 0.52rem;
+    font-size: 0.72rem;
     margin-top: 26px;
   }
   .trace-panel {
@@ -135,10 +135,10 @@
   .trace-stages li {
     grid-template-columns: 26px 80px 1fr;
     min-height: 38px;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
   }
   .trace-stages li > span:last-child {
-    font-size: 0.7rem;
+    font-size: 0.72rem;
   }
   .trace-stages li:not(:last-child)::after {
     height: 18px;
@@ -147,17 +147,17 @@
     font-size: 0.92rem;
   }
   .trace-foot {
-    font-size: 0.69rem;
+    font-size: 0.72rem;
   }
   .principle-strip > .container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding-block: 19px;
     gap: 13px;
-    font-size: 0.63rem;
+    font-size: 0.72rem;
   }
   .principle-strip a {
-    font-size: 0.62rem;
+    font-size: 0.72rem;
   }
   .section {
     padding-block: 52px;
@@ -182,7 +182,7 @@
     grid-column: 2;
     grid-row: 2;
     max-width: none;
-    font-size: 0.78rem;
+    font-size: 0.8rem;
   }
   .framework-row > .row-arrow {
     grid-column: 3;
@@ -192,7 +192,7 @@
     font-size: 1.5rem;
   }
   .framework-name > span {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
   }
   .framework-index {
     padding-top: 4px;
@@ -305,7 +305,7 @@
     background: var(--pale);
     border: 1px solid var(--line);
     border-radius: 3px;
-    font-size: 0.64rem;
+    font-size: 0.72rem;
   }
   .doc-sidebar nav a:hover {
     margin: 0;
@@ -348,7 +348,7 @@
     font-size: 2.62rem;
   }
   .hero .eyebrow {
-    font-size: 0.52rem;
+    font-size: 0.72rem;
     gap: 8px;
   }
   .red-rule {
@@ -358,7 +358,7 @@
     gap: 10px;
   }
   .button {
-    font-size: 0.72rem;
+    font-size: 0.8rem;
     padding: 12px 15px;
   }
   .release-note > span:last-child {
@@ -366,7 +366,7 @@
     padding-left: 14px;
   }
   .principle-strip > .container {
-    font-size: 0.58rem;
+    font-size: 0.72rem;
     gap: 12px;
   }
   .principle-strip b {
@@ -376,6 +376,6 @@
     grid-template-columns: 1fr;
   }
   .footer-bottom {
-    font-size: 0.55rem;
+    font-size: 0.72rem;
   }
 }

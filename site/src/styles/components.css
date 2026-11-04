@@ -70,7 +70,7 @@
   gap: 7px;
 }
 .repo-link {
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   font-weight: 600;
   display: flex;
   gap: 12px;
@@ -127,7 +127,7 @@
   background: var(--pale);
 }
 .index-number {
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   color: var(--signal);
   font-variant-numeric: tabular-nums;
 }
@@ -137,7 +137,7 @@
 }
 .menu-link small {
   display: block;
-  font-size: 0.74rem;
+  font-size: 0.8rem;
   color: var(--muted);
 }
 .menu-link > span:last-child {
@@ -192,7 +192,7 @@
 }
 .drawer-link span {
   color: var(--muted);
-  font-size: 0.7rem;
+  font-size: 0.72rem;
 }
 .drawer-link[aria-current] {
   color: var(--signal);
@@ -208,7 +208,7 @@
 }
 .eyebrow,
 .micro-label {
-  font-size: 0.65rem;
+  font-size: 0.72rem;
   letter-spacing: 0.14em;
   font-weight: 600;
   line-height: 1.5;
@@ -266,7 +266,7 @@
   padding: 12px 20px;
   border-radius: 4px;
   border: 1px solid transparent;
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   font-weight: 600;
   transition:
     background 0.15s,
@@ -294,7 +294,7 @@
   gap: 8px;
   align-items: center;
   margin-top: 30px;
-  font-size: 0.57rem;
+  font-size: 0.72rem;
   letter-spacing: 0.09em;
   font-weight: 600;
   color: var(--blue);
@@ -330,10 +330,10 @@
   gap: 10px;
 }
 .trace-head .micro-label {
-  font-size: 0.57rem;
+  font-size: 0.72rem;
 }
 .tiny-tag {
-  font-size: 0.57rem;
+  font-size: 0.72rem;
   background: var(--pale);
   border: 1px solid var(--line);
   padding: 2px 7px;
@@ -363,7 +363,7 @@
 }
 .trace-file div > span {
   display: block;
-  font-size: 0.66rem;
+  font-size: 0.72rem;
   color: var(--muted);
   margin-top: 3px;
 }
@@ -383,7 +383,7 @@
   align-items: center;
   gap: 12px;
   min-height: 43px;
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   position: relative;
 }
 .stage-node {
@@ -392,7 +392,7 @@
   place-items: center;
   width: 26px;
   height: 26px;
-  font-size: 0.57rem;
+  font-size: 0.72rem;
   background: var(--pale);
   color: var(--signal);
   border: 1px solid #cfddf1;
@@ -410,7 +410,7 @@
 }
 .trace-stages li > span:last-child {
   color: var(--muted);
-  font-size: 0.65rem;
+  font-size: 0.72rem;
 }
 .trace-foot {
   padding: 17px 22px;
@@ -419,7 +419,7 @@
   align-items: start;
   background: var(--pale);
   border-top: 1px solid var(--line);
-  font-size: 0.64rem;
+  font-size: 0.72rem;
   color: var(--muted);
   border-radius: 0 0 8px 8px;
 }
@@ -443,18 +443,18 @@
   align-items: center;
   justify-content: space-between;
   padding-block: 20px;
-  font-size: 0.72rem;
+  font-size: 0.8rem;
   font-weight: 500;
 }
 .principle-strip b {
   margin-right: 10px;
-  font-size: 0.6rem;
+  font-size: 0.72rem;
   color: var(--red);
   font-weight: 500;
 }
 .principle-strip a {
   color: var(--signal);
-  font-size: 0.68rem;
+  font-size: 0.72rem;
 }
 .section {
   padding-block: 80px;
@@ -491,7 +491,7 @@
   background: var(--pale);
 }
 .framework-index {
-  font-size: 0.72rem;
+  font-size: 0.8rem;
   color: var(--signal);
   align-self: start;
   padding-top: 7px;
@@ -503,7 +503,7 @@
 .framework-name > span {
   display: block;
   color: var(--muted);
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   margin-top: 7px;
 }
 .framework-row > p {
@@ -519,7 +519,7 @@
 }
 .section-note {
   color: var(--muted);
-  font-size: 0.69rem;
+  font-size: 0.72rem;
   margin-top: 20px;
 }
 .ledger-section {
@@ -566,7 +566,7 @@
   gap: 12px;
   border-bottom: 1px solid #ffffff25;
   padding-bottom: 18px;
-  font-size: 0.6rem;
+  font-size: 0.72rem;
   letter-spacing: 0.12em;
   color: #aac4ee;
 }
@@ -580,7 +580,7 @@
   display: flex;
   gap: 15px;
   justify-content: space-between;
-  font-size: 0.77rem;
+  font-size: 0.8rem;
   padding: 9px 0;
   border-bottom: 1px solid #ffffff0f;
 }
@@ -592,7 +592,7 @@
   font-weight: 500;
 }
 .ledger-specimen p {
-  font-size: 0.62rem !important;
+  font-size: 0.72rem !important;
   margin-top: 20px !important;
 }
 .connection-grid {
@@ -608,7 +608,7 @@
   border-left: 1px solid var(--line);
 }
 .connection-grid .micro-label {
-  font-size: 0.58rem;
+  font-size: 0.72rem;
   color: var(--muted);
 }
 .connection-grid h3 {
@@ -624,7 +624,7 @@
   display: inline-block;
   margin-top: 22px;
   color: var(--signal);
-  font-size: 0.77rem;
+  font-size: 0.8rem;
   font-weight: 600;
 }
 .base3-callout {
@@ -649,13 +649,13 @@
 }
 .base3-callout .eyebrow {
   margin-bottom: 9px;
-  font-size: 0.57rem;
+  font-size: 0.72rem;
 }
 .base3-callout h2 {
   font-size: 1.9rem;
 }
 .base3-callout p:not(.eyebrow) {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: var(--muted);
   margin-top: 9px;
 }
@@ -677,7 +677,7 @@
 }
 .footer-top nav h2 {
   font-family: var(--body);
-  font-size: 0.63rem;
+  font-size: 0.72rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   line-height: 1.5;
@@ -685,7 +685,7 @@
 }
 .footer-top nav a {
   display: block;
-  font-size: 0.74rem;
+  font-size: 0.8rem;
   margin-top: 10px;
   color: var(--muted);
 }
@@ -699,7 +699,7 @@
   gap: 20px;
   padding-block: 22px;
   color: var(--muted);
-  font-size: 0.59rem;
+  font-size: 0.72rem;
 }
 .footer-bottom a {
   color: var(--signal);
@@ -710,7 +710,7 @@
 }
 .back-link {
   display: inline-block;
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   color: var(--muted);
   padding-block: 10px;
   margin-bottom: 40px;
@@ -739,7 +739,7 @@
   margin-top: 10px;
 }
 .status-label {
-  font-size: 0.6rem;
+  font-size: 0.72rem;
   line-height: 1.5;
   background: var(--pale);
   border: 1px solid var(--line);
@@ -770,7 +770,7 @@
 }
 .doc-sidebar > .micro-label {
   color: var(--muted);
-  font-size: 0.6rem;
+  font-size: 0.72rem;
   margin-bottom: 15px;
 }
 .doc-sidebar nav {
@@ -780,7 +780,7 @@
   display: block;
   padding: 8px 0 8px 16px;
   color: var(--muted);
-  font-size: 0.72rem;
+  font-size: 0.8rem;
   line-height: 1.7;
 }
 .doc-sidebar nav a:hover {
@@ -790,7 +790,7 @@
   padding-left: 15px;
 }
 .sidebar-source {
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   color: var(--signal);
   display: inline-block;
   margin-top: 25px;
@@ -806,7 +806,7 @@
 }
 .contract-block .micro-label {
   color: var(--signal);
-  font-size: 0.6rem;
+  font-size: 0.72rem;
 }
 .contract-block p {
   font-size: 0.8rem;
@@ -820,7 +820,7 @@
   border-top: 1px solid var(--line);
 }
 .section-num {
-  font-size: 0.65rem;
+  font-size: 0.72rem;
   color: var(--red);
   display: block;
   margin-bottom: 12px;
@@ -843,7 +843,7 @@
   border-left: 3px solid var(--signal);
 }
 .acceptance .eyebrow {
-  font-size: 0.57rem;
+  font-size: 0.72rem;
   margin-bottom: 14px;
 }
 .acceptance h2 {
@@ -867,7 +867,7 @@
   font-weight: 600;
 }
 .acceptance-note {
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   margin-top: 22px;
   color: var(--muted);
 }
@@ -877,10 +877,10 @@
 }
 .example .micro-label {
   color: var(--muted);
-  font-size: 0.57rem;
+  font-size: 0.72rem;
 }
 .example p {
-  font-size: 0.77rem;
+  font-size: 0.8rem;
   margin-top: 9px;
   overflow-wrap: anywhere;
 }
@@ -892,7 +892,7 @@
   padding-top: 28px;
 }
 .next-guide .micro-label {
-  font-size: 0.57rem;
+  font-size: 0.72rem;
   color: var(--muted);
 }
 .next-guide h3 {
@@ -917,11 +917,11 @@
 }
 .palette strong {
   display: block;
-  font-size: 0.7rem;
+  font-size: 0.72rem;
 }
 .palette code {
   display: block;
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   color: var(--muted);
   margin-top: 4px;
 }

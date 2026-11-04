@@ -286,7 +286,7 @@ function Home() {
           <span>
             <b>03</b> Evidence over assumptions
           </span>
-          <a href="roadmap.html">
+          <a className="text-link" href="roadmap.html">
             See the build plan <Arrow />
           </a>
         </div>
@@ -385,7 +385,7 @@ function Home() {
               Document analysis and migration workflows. Its adapter and
               private-corpus evidence stay in its own environment.
             </p>
-            <a href="modules.html">
+            <a className="text-link" href="modules.html">
               Read the integration boundary <Arrow />
             </a>
           </article>
@@ -398,7 +398,7 @@ function Home() {
               A prospective consumer of the same provider-neutral contracts,
               without coupling the lab to a single application.
             </p>
-            <a href="https://github.com/Sukonik/windswordai">
+            <a className="text-link" href="https://github.com/Sukonik/windswordai">
               Explore WindSwordAI <Arrow />
             </a>
           </article>
