@@ -161,7 +161,17 @@ See [DATA_POLICY.md](docs/DATA_POLICY.md) for admission rules and the limits of 
 
 More: [BASE3 design documentation](docs/BASE3.md) · [Live BASE3 guide](https://sukonik.github.io/baldeaglelab/base3.html).
 
-**🦅 Logo direction:** The current folded-wing icon is provisional. A later flat, 2D eagle-holding-a-folder design will have natural-color, black-and-white, and blue-white-red variants. See the [logo brief](docs/LOGO_BRIEF.md).
+## 🦅 V1 eagle-and-folder icon collection
+
+The owner approved all four V1 logo directions: **Natural**, **Old Glory**, **Black Monochrome**, and **Reverse**. Each is stored as a separate, label-free PNG. A fifth **Blue Monochrome** edition shows the black design in Old Glory Blue `#002868` on white.
+
+| Natural | Old Glory | Black Monochrome | Reverse | Blue Monochrome |
+| --- | --- | --- | --- | --- |
+| <img src="site/public/brand/v1/baldeaglelab-natural-v1.png" width="120" alt="Natural eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-old-glory-v1.png" width="120" alt="Old Glory eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-monochrome-black-v1.png" width="120" alt="Black monochrome eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-reverse-v1.png" width="120" alt="Reverse eagle icon"> | <img src="site/public/brand/v1/baldeaglelab-monochrome-blue-v1.png" width="120" alt="Blue monochrome eagle icon"> |
+
+**[Browse and download the separate icons](site/public/brand/v1/)** · [Brand asset guide](docs/BRAND.md) · [Original approved board](site/public/brand/v1/baldeaglelab-approved-board-v1.png) · [Design brief](docs/LOGO_BRIEF.md)
+
+The eagle holds a document folder above a structural scaffold. Natural, Old Glory, and Black Monochrome PNGs have transparent outer backgrounds with intentional white details retained. Reverse uses a navy square background; Blue Monochrome uses white. These are generated raster editions; the approved board is retained as the reference, and exact vector masters and small-size simplification remain future work. The initial folded-wing website favicon remains provisional.
 
 ## 🛠️ Local development
 
