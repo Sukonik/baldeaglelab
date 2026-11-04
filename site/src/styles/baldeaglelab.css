@@ -1,0 +1,27 @@
+/* Product-level refinements belong here; shared BASE3 layers remain reusable. */
+.hero-copy {
+  position: relative;
+}
+.trace-panel::before {
+  content: "";
+  position: absolute;
+  width: 65px;
+  height: 3px;
+  background: var(--red);
+  top: -2px;
+  left: 24px;
+}
+.ledger-specimen {
+  background-image: linear-gradient(130deg, #ffffff04, transparent 70%);
+}
+.framework-row:focus-visible {
+  outline-offset: 6px;
+}
+.doc-body {
+  min-width: 0;
+}
+.doc-section,
+.acceptance,
+.contract-block {
+  scroll-margin-top: 110px;
+}

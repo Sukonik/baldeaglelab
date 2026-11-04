@@ -1,0 +1,15 @@
+:root {
+  --blue: #002868;
+  --white: #fff;
+  --red: #b22234;
+  --signal: #165dde;
+  --ink: #102b50;
+  --muted: #526580;
+  --line: #dbe3ee;
+  --pale: #f2f6fc;
+  --display: "Outfit", Helvetica, Arial, sans-serif;
+  --body: "Inter", Helvetica, Arial, sans-serif;
+  --max: 1180px;
+  --radius: 6px;
+  --gutter: 36px;
+}
